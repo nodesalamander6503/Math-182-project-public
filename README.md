@@ -4,7 +4,7 @@ This README is a modified version of the final paper I wrote for that class, whi
 
 # Dataset
 
-I have elected to use the source (Madelon)[https://archive.ics.uci.edu/dataset/171/madelon] from UC Irvine Machine Learning Repository.
+I have elected to use the source [Madelon](https://archive.ics.uci.edu/dataset/171/madelon) from UC Irvine Machine Learning Repository.
 This source was chosen because I found it mildly interesting and because, after minimal cleanup, it met the requirements to be used in this project.
 Cleanup consisted only of converting data to numeric form, eliminating non-numeric data, and deleting incomplete, empty, and missing rows.
 
